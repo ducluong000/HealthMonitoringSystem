@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "94339659610",
+    "firebase_url": "https://health-monitoring-system-aed2c-default-rtdb.firebaseio.com",
+    "project_id": "health-monitoring-system-aed2c",
+    "storage_bucket": "health-monitoring-system-aed2c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94339659610:android:e379eb1c920061e28d2563",
+        "android_client_info": {
+          "package_name": "com.example.healthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjhusJF9j42x_8S3RJWd42W7hoLAo_Tv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
